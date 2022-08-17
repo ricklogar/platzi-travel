@@ -1,4 +1,4 @@
-# Platzi Travel
+Platzi Travel
 =============
 *Responsive website made with HTML and Tailwind CSS *
 
